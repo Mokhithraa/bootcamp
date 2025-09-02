@@ -1,1 +1,9 @@
-this file is to simulate the git pull
+This file is to simulate the git pull
+Steps:
+ - In github, create a file and edit the same
+ - commit the same
+ - In VS code, in terminal command "git pull" 
+ - all the edits and updates will be done and reflected in local system too.
+
+
+
