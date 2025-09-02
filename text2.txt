@@ -1,0 +1,17 @@
+trying add,commit, and push
+created a file and trying to add that into github repo
+steps:
+1. new file and named text2.txt # marked automatically as U 
+2. commands used:
+ - cd bootcamp 
+ - git status #to check out all the files and their status
+ - git add text2.txt
+ - git commit -m "add and commit text2.txt" #-m is for typing the commit command 
+ #will hold the file in staging and not visible in github repo 
+ - git push origin main #origin takes to the link and the word after origin is the branch
+ 
+
+
+Now I'll modify in VS and add, commit and push to github
+ - in VS, type the code or text2
+ - after edit,
