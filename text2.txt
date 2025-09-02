@@ -14,4 +14,5 @@ steps:
 
 Now I'll modify in VS and add, commit and push to github
  - in VS, type the code or text2
- - after edit,
+ - after edit, M will appear as status meaning its modified
+ - then the same commands
